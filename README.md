@@ -3,7 +3,7 @@ Data Analyst Professional Certification Practical Exam DA601P
 
 This Project was part of the DataCamp Data Analyst Professional Certification which I passed the two timed exams (DA102, DA201) and practical exam (DS501P) on January 15th, 2024.
 
-Data Scientist Associate Certificate (Obtained: 23 January 2024. Expires: 22 January 2026.): https://www.datacamp.com/certificate/DA0029986436812  
+Data Analyst Professional Certificate (Obtained: 23 January 2024. Expires: 22 January 2026.): https://www.datacamp.com/certificate/DA0029986436812  
 
 LinkedIn Post: https://www.linkedin.com/feed/update/urn:li:share:7155667832960118784/
 
